@@ -1,4 +1,4 @@
-package com.simpleexample.kafka_producer2;
+package com.simpleexample.kafka_stream;
 
 import java.io.Serializable;
 

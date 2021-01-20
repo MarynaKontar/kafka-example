@@ -1,10 +1,10 @@
-package com.simpleexample.kafka_producer2;
+package com.simpleexample.kafka_stream;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KafkaProducer2ApplicationTests {
+class KafkaStreamApplicationTests {
 
 	@Test
 	void contextLoads() {
